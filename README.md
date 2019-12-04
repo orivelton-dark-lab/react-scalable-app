@@ -1,4 +1,4 @@
-https://www.youtube.com/watch?v=pN3EvaMyQ40&list=PLG3RxIUKLJlbDDGeeoUCkinS2DUybp_1o&index=3
+https://www.youtube.com/watch?v=pN3EvaMyQ40&list=PLG3RxIUKLJlbDDGeeoUCkinS2DUybp_1o&index=8
 
 ## Available Scripts
 
